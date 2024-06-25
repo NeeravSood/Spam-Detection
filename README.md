@@ -49,4 +49,3 @@ Replace `spam_detector.py` with the actual script name where your main function 
 
 - `spam_detector.py`: Main script to train classifiers and evaluate performance.
 - `README.md`: This file, providing an overview of the project.
-- `requirements.txt`: List of Python dependencies.
